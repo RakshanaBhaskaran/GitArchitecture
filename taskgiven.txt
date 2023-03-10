@@ -1,0 +1,7 @@
+create a folder 
+add files
+use git init
+git add 
+git ls
+git status
+git commit
