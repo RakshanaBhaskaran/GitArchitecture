@@ -1,0 +1,8 @@
+10-3-23
+-------
+
+VCS will work for:
+1)Track History(who, when changed like that)
+2)Working together
+
+2 Categories: i) Centralized ii)Distributed-ex:Git
